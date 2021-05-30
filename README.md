@@ -6,6 +6,10 @@ We have created a working robo car for automatic drilling work through a simple 
 we have made the project which is the combination of Robocar and drilling machine which is fully automatic and control using your phone .
 we have design a car on which drill bit mechanism is mount and used the servo motor for the rotation of drill . All these mechanisms is control through the blink app on just simple click from your phone .
 
+### Future Scope 
+
+we can modify by using esp cam which will provide the live visual during drilling process and provide proper view during drilling to user on it mobile .
+
 ## Components Required 
 
 1. Esp8266 Node mcu
@@ -19,6 +23,11 @@ we have design a car on which drill bit mechanism is mount and used the servo mo
 ## Project video link 
 
   "https://youtube.com/shorts/61NkULWDVOY?feature=share"
+  
+## Project Blink Mobile setup
+
+<p align='center' ><img src=/images/blink.jpg width = 720 height  = 720 ></p>
+
   
 ## Project images 
 
